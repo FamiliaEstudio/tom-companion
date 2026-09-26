@@ -1,8 +1,8 @@
 # Integração com a linguagem Tom
 
 Este repositório controla as alterações próprias de **tom-companion**. A linguagem e o ambiente
-de compilação ficam no repositório [LinguagemTom](https://github.com/FamiliaEstudio/LinguagemTom),
-atualmente privado. O aplicativo ainda depende dos caminhos relativos daquele projeto;
+de compilação ficam no repositório público [LinguagemTom](https://github.com/FamiliaEstudio/LinguagemTom).
+O aplicativo ainda depende dos caminhos relativos desse projeto;
 por isso o clone isolado não compila sozinho.
 
 Para desenvolver e testar, mantenha um clone de LinguagemTom e copie os arquivos deste

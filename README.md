@@ -1,9 +1,9 @@
 # Tom Companion 0.1.0
 
 > **Desenvolvimento:** este repositório guarda o código do aplicativo. A compilação e os testes
-> usam a árvore de [LinguagemTom](https://github.com/FamiliaEstudio/LinguagemTom)
-> (atualmente privada). Coloque os arquivos deste repositório no caminho indicado
-> em [INTEGRACAO.md](INTEGRACAO.md) e execute os comandos abaixo na raiz de LinguagemTom.
+> usam a árvore pública de [LinguagemTom](https://github.com/FamiliaEstudio/LinguagemTom).
+> Veja [INTEGRACAO.md](INTEGRACAO.md) para posicionar os arquivos e executar os comandos
+> na raiz de LinguagemTom.
 
 Um painel integrado ao VS Code acompanha a construção da calculadora. A lógica
 do acompanhamento continua escrita em Tom, em um processo sem janela.
